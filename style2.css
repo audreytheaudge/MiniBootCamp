@@ -19,7 +19,7 @@ body {background-color: #fdfdfd;
 .listItem {
     padding-top: 5px;
     list-style-type: none;
-    display: inline-block;
+    /* display: inline-block; */
     float: right;
     margin-right: 16px;
 }
